@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "v9Uew3i946yhpEZ8TNfVEMIAswRnhbs8D/T31hKaXX+KpkeGDDyg0cj3Vg6wsQLRB8110zVJ+TEP3LzfaMAl5w==",
+  "success": true,
+  "projectFilePath": "C:\\Code\\RunningBlazorInProductionLessonsLearned\\WasmServerPrerendered\\WasmServerPrerendered\\Shared\\WasmServerPrerendered.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jimmy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.6\\microsoft.windowsdesktop.app.ref.6.0.6.nupkg.sha512",
+    "C:\\Users\\Jimmy\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.6\\microsoft.netcore.app.ref.6.0.6.nupkg.sha512",
+    "C:\\Users\\Jimmy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.6\\microsoft.aspnetcore.app.ref.6.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
