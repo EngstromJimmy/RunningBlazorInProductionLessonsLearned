@@ -8,13 +8,17 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WasmServerPrerendered.Server
 build_property.RootNamespace = WasmServerPrerendered.Server
-build_property.ProjectDir = C:\Code\RunningBlazorInProductionLessonsLearned\WasmServerPrerendered\WasmServerPrerendered\Server\
+build_property.ProjectDir = C:\Code\RunningBlazorInProductionLessonsLearned\WasmServerPrerendered\Server\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Code\RunningBlazorInProductionLessonsLearned\WasmServerPrerendered\WasmServerPrerendered\Server
+build_property.MSBuildProjectDirectory = C:\Code\RunningBlazorInProductionLessonsLearned\WasmServerPrerendered\Server
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Code/RunningBlazorInProductionLessonsLearned/WasmServerPrerendered/WasmServerPrerendered/Server/Pages/Error.cshtml]
+[C:/Code/RunningBlazorInProductionLessonsLearned/WasmServerPrerendered/Server/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Code/RunningBlazorInProductionLessonsLearned/WasmServerPrerendered/Server/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

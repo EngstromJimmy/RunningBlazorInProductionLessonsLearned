@@ -1,5 +1,3 @@
-using Microsoft.AspNetCore.ResponseCompression;
-
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -28,9 +26,11 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
-
 app.MapRazorPages();
 app.MapControllers();
-app.MapFallbackToFile("index.html");
-
+//<Change this>
+//app.MapFallbackToFile("index.html");
+//To this:
+app.MapFallbackToPage("/_Host");
+//</Change this>
 app.Run();
